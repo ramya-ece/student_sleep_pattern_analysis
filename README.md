@@ -46,6 +46,10 @@ A data analysis project examining student sleep patterns and their correlation w
 - screen time and caffiene intake levels
 - Daily pattern charts
 
+## Dash Board
+   ![image](https://github.com/user-attachments/assets/46879c65-c400-41b3-a4e9-a6d4872cbe38)
+
+
 ## Project Structure
 
 ### Excel Sheets
